@@ -1,0 +1,61 @@
+.main {
+    margin-top: 0px;
+    margin-bottom:0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding:  100px;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+input{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Gill Sans';
+}
+label{
+  margin-left: 20px;
+  font-size:20px;
+  font-family: 'Gill Sans'; 
+  color: white; 
+}
+h2,h3,h4,p{
+  font-size:20px;
+  font-family: 'Gill Sans'; 
+  color: rgb(3, 3, 3); 
+}
+h1{
+  margin-top: -80px;
+  margin-left: 20px;
+  font-size:30px;
+  font-family: 'sans-serif'; 
+  color: rgb(255, 255, 255); 
+}
+button{
+  font-size: 22px;
+  font-family: 'Gill Sans';  
+  text-align: left;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 80px;
+  padding-top:  8px;
+  padding-bottom:  8px;
+  padding-left:  60px;
+  padding-right:  60px;
+  cursor: pointer;
+
+}
+#result,#result2 {
+    margin-top: 30px;
+    margin-bottom:10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:  10px;
+    background-color: rgb(205, 193, 216);
+    border-radius: 20px;
+    font-family: 'Gill Sans'; 
+} 
+ 

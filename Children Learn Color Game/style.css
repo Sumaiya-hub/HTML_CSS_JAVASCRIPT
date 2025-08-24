@@ -1,0 +1,26 @@
+div{
+    background-color: rgb(178, 243, 240);
+    border-radius: 5px;
+    padding: 50px;
+    padding-bottom: 80px;
+    margin: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+     
+} 
+button{
+    padding: 10px;
+    font-size: 19px;
+    font-family: 'sans-serif';
+    border-radius: 10px;
+}
+ 
+h2{
+     
+    font-size: 30px;
+    font-family: 'sans-serif';
+    color: rgb(212, 209, 209);
+    border-radius: 5px;
+    padding: 30px;
+    background-color: rgb(184, 146, 146);
+}
